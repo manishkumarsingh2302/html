@@ -1,6 +1,7 @@
 .a1{
     display: flex;
     justify-content: space-evenly;
+    padding-top: 80px;
 }
 #b1{
     background-color: red;

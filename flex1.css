@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(243, 85, 112);
+    flex-wrap: wrap-reverse;
+}
+.d{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 4px solid;
+}
+.d1{
+    background-color: black;
+}
+.d2{
+    background-color: brown;
+}
+.d3{
+    background-color: blue;
+}
