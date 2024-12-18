@@ -1,0 +1,16 @@
+header{
+    background-image: url(hero.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#h1{
+    color: aliceblue;
+    
+}
+.head{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+    justify-content: right;
+}

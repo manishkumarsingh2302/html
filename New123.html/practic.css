@@ -1,0 +1,31 @@
+
+
+
+
+#navbar {
+    height: 60px;
+    background-color:black;
+}
+button {
+    color: orange;
+}
+
+a {
+    margin: 70px;
+}
+#logo {
+    font-size: 25px;
+    color: orange;
+}
+#contantbox {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+
+
+}
+footer {
+    background-color: #0f1111;
+    color: aliceblue;
+}

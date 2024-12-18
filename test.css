@@ -1,0 +1,29 @@
+.a1{
+    text-align: center;
+    
+    
+}
+.a2{
+    display: flex;
+    gap: 10px;
+}
+
+button{
+    background-color: blue;
+    border-radius: 20px;
+    
+}
+#h2{
+    text-align: center;
+}
+#box1{
+    border: 3px solid black;
+    
+}
+#box2{
+    border: 3px solid black;
+}
+#box3{
+    border: 3px solid black;
+    
+}
