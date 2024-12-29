@@ -1,0 +1,30 @@
+.head{
+    text-align: center;
+    justify-content: space-around;
+}
+.side{
+
+    display: flex;
+}
+button{
+    background-color: blue;
+    color: rgb(243, 245, 247);
+    margin-left: 30px;
+    
+}
+h2{
+    color: blue;
+    margin-left: 30px;
+}
+h3{
+    margin-left: 30px;
+}
+.side1{
+    padding-top: 30px;
+    background-color: rgb(248, 249, 250);
+    
+}
+.side{
+    padding-top:30px; 
+}
+
